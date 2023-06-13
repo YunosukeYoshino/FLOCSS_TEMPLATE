@@ -305,13 +305,11 @@ button[disabled],
   cursor: default;
 }
 
-
 input[type="submit"] {
   -webkit-appearance: none;
-  -moz-appearance:none;
+  -moz-appearance: none;
   border-radius: 0;
 }
-
 
 select {
   appearance: none;
@@ -324,7 +322,7 @@ select {
 select {
   -moz-appearance: none;
   text-indent: 0.01px;
-  text-overflow: '';
+  text-overflow: "";
 }
 
 select::-ms-expand {
